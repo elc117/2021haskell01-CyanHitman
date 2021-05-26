@@ -1,0 +1,2 @@
+language = "undefined"
+run = "ghci H1p2.hs"

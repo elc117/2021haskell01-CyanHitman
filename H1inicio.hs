@@ -1,3 +1,6 @@
+module H1inicio where
+
+
 {-
 	Primeiros passos em Haskell
 -}
