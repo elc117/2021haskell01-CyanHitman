@@ -1,2 +1,2 @@
 language = "undefined"
-run = "ghci H1p2.hs"
+run = "ghci h1p3/svgSimple.hs"
